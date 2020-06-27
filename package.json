@@ -1,5 +1,21 @@
 {
+  "name": "react-native-typescript-redux-thunk-template",
   "main": "node_modules/expo/AppEntry.js",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tobin Frost",
+    "email": "habib92m@gmail.com",
+    "url": "http://super-dev.com"
+  },
+  "keywords": [
+    "react-native",
+    "redux",
+    "Thunk",
+    "Expo",
+    "Rest-Api",
+    "Template",
+    "Guide"
+  ],
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -8,12 +24,19 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@types/react-redux": "^7.1.9",
     "expo": "~38.0.1",
     "expo-status-bar": "^1.0.0",
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.0.tar.gz",
-    "react-native-web": "~0.11.7"
+    "react-native-web": "~0.11.7",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5",
+    "redux-promise": "^0.6.0",
+    "redux-rx": "^0.5.0",
+    "redux-thunk": "^2.3.0",
+    "rx": "^4.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.6",
@@ -22,4 +45,6 @@
     "typescript": "~3.9.5"
   },
   "private": true
+
+
 }
