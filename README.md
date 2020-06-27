@@ -2,7 +2,7 @@
 This is an essential example to build React-native app with Expo using Typescript and Redux Thunk.
 
 Step to run
-1. Clone the [repo](https://github.com/diegothucao/react-native-typescript-redux-thunk-template)
+1. Clone the [repo](https://github.com/TobinFrost/react-native-typescript-redux-thunk-template)
 2. `yarn install` OR `npm install`
 4. `npm run ios` OR `npm run android`
 
@@ -123,7 +123,7 @@ export default class AppReducer {
 
 }
 ```
-Thanks to [Linkedin](https://www.linkedin.com/in/diegothucao/) for starting the initial project [initial_project](https://github.com/diegothucao/react-native-typescript-redux-thunk-template)
+Thanks to [Thụ CAO](https://www.linkedin.com/in/diegothucao/) for starting the initial project [initial_project](https://github.com/diegothucao/react-native-typescript-redux-thunk-template)
 
 
 references
